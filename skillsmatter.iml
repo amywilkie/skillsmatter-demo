@@ -3,16 +3,31 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="RVM: ruby-1.9.2-p290" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-1.9.2-p290 [skillsmatter]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.2.7, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="heroku (v2.21.3, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="launchy (v2.1.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="netrc (v0.7.1, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.7, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.6.1, RVM: ruby-1.9.2-p290) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.2.8, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="backports (v2.6.2, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="daemons (v1.1.8, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="eventmachine (v0.12.10, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="excon (v0.15.4, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="haml (v3.1.6, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="heroku (v2.29.0, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="heroku-api (v0.2.13, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="launchy (v2.1.0, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.19, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="netrc (v0.7.5, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.4.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.2.0, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.7, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.9, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.20, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.3.2, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra-contrib (v1.3.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra-static-assets (v1.0.4, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thin (v1.4.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
   </component>
 </module>
 

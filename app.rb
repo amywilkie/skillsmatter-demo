@@ -1,4 +1,4 @@
-module Sky
+module SkyDemo
   class SkillsMatter < Sinatra::Base
 
     get '/' do

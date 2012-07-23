@@ -5,9 +5,8 @@ require 'sass'
 require 'sinatra/base'
 require 'sinatra/reloader'
 require 'sinatra/contrib'
-require 'sinatra/static_assets'
-require 'sinatra/assetpack'
+require './app'
 
 
-run Sky::SkillsMatter
+run SkyDemo::SkillsMatter
 
