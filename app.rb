@@ -2,7 +2,7 @@ module SkyDemo
   class SkillsMatter < Sinatra::Base
 
     get '/' do
-      "Hi SkillsMatter!"
+      "<h1>Hi SkillsMatter!<h1>"
     end
 
   end
