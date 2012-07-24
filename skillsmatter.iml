@@ -22,10 +22,8 @@
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.7, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.9, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.20, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.3.2, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sinatra-contrib (v1.3.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sinatra-static-assets (v1.0.4, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thin (v1.4.1, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ruby-1.9.2-p290 [skillsmatter]) [gem]" level="application" />
   </component>
